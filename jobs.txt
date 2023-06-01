@@ -1,0 +1,648 @@
+Job{jobNumber='12345AKM*', jobTitle='Architect', jobPosterName='KBC Company', jobPosterAddress='Sydney, Victoria, Australia', jobPostedDate='2023-05-31', jobExperienceLevel='Junior', jobType='Full-time', jobRequiredSkills=[C, SQL], jobSalary=50000.0, jobDescription='Job description'}12345AKM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AKM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AKM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AKM*
+Singer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AKM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AKM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AKM*
+Painter
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AKM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AKM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+52413SDM_
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+Software Engineer
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+Software Engineer
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+Software Engineer
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+Software Engineer
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345AKM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AKM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AKM*
+Writer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+null
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345ABC!
+Software Engineer
+null
+City, State, Country
+2022-01-01
+Senior
+Full-time
+Java
+Spring
+120000.0
+Job description
+
+12345AKM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AJM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AJM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AJM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Job description
+
+12345AJM*
+Software Engineer
+KBC Company
+Sydney, Victoria, Australia
+2023-05-31
+Junior
+Full-time
+C
+SQL
+50000.0
+Part-time
+
